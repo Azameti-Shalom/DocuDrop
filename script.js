@@ -13,8 +13,6 @@ function browse(){
 
         msg.style.padding = '10px';
 
-        msg.style.border = '2px dashed green';
-
     });
     
 }
